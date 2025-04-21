@@ -27,17 +27,17 @@ Contributions to the dataset are welcome, please raise a [pull request](https://
 
 [2] Gunnarsson, Maria. "[Multi-hop neural question answering in the telecom domain.](https://lup.lub.lu.se/luur/download?func%253DdownloadFile%2526recordOId%253D9063863%2526fileOId%253D9063864))" LTH, Lund University: Lund, Sweden(2021).
 
-[3] Bissessar, Daniel, and Alexander Bois. "[Evaluation of methods for question answering data generation: Using large language models.](https://www.diva-portal.org/smash/get/diva2%253A1692087/FULLTEXT01.pdf)" (2022).
+[3] Bissessar, Daniel and Alexander Bois. "[Evaluation of methods for question answering data generation: Using large language models.](https://www.diva-portal.org/smash/get/diva2%253A1692087/FULLTEXT01.pdf)" (2022).
 
-[4] Nimara, Doumitrou Daniil, Fitsum Gaim Gebre, and Vincent Huang. "[Entity Recognition in Telecommunications using Domain-adapted Language Models.](https://ieeexplore.ieee.org/abstract/document/10624809/)" 2024 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN 2024).
+[4] Nimara, Doumitrou Daniil, Fitsum Gaim Gebre and Vincent Huang. "[Entity Recognition in Telecommunications using Domain-adapted Language Models.](https://ieeexplore.ieee.org/abstract/document/10624809/)" 2024 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN 2024).
 
 [5] Karapantelakis, Athanasios, et al. "[Using Large Language Models to understand telecom standards.](https://ieeexplore.ieee.org/abstract/document/10624786)" 2024 IEEE International Conference on Machine Learning for Communication and Networking (ICMLCN 2024).
 
-[6] Sujoy Roychowdhury and Sumit Soman and HG Ranjani and Avantika Sharma and Neeraj Gunda and Sai Krishna Bala. “[Evaluation of Table Representations to Answer Questions from Tables in Documents : A Case Study using 3GPP Specifications](https://arxiv.org/pdf/2408.17008)”. arXiv preprint arXiv:2408.17008 (2024).
+[6] Roychowdhury, Sujoy, Sumit Soman, HG Ranjani, Avantika Sharma, Neeraj Gunda and Sai Krishna Bala. “[Evaluation of Table Representations to Answer Questions from Tables in Documents : A Case Study using 3GPP Specifications](https://arxiv.org/pdf/2408.17008)”. arXiv preprint arXiv:2408.17008 (2024).
 
-[7] Roychowdhury, Sujoy, et al. "[Evaluation of RAG Metrics for Question Answering in the Telecom Domain.](https://openreview.net/forum?id%253DL74piNoToX)" Workshop on Foundation Models in the Wild, International Conference on Machine Learning (ICML 2024). 
+[7] Roychowdhury, Sujoy, Sumit Soman, HG Ranjani, Neeraj Gunda, Vansh Chhabra and Sai Krishna Bala. "[Evaluation of RAG Metrics for Question Answering in the Telecom Domain.](https://openreview.net/forum?id%253DL74piNoToX)" Workshop on Foundation Models in the Wild, International Conference on Machine Learning (ICML 2024). 
 
-[8] Roychowdhury, Sujoy, et al. “[Investigating Distributions of Telecom Adapted Sentence Embeddings for Document Retrieval](https://arxiv.org/pdf/2406.12336)”, Workshop on Next-Gen Networks through LLMs, Action Models, and Multi-Agent Systems, International Conference on Communications (ICC 2025).
+[8] Roychowdhury, Sujoy, Sumit Soman, HG Ranjani, Neeraj Gunda, Vansh Chhabra, Subhadip Bandyopadhyay and Sai Krishna Bala. “[Investigating Distributions of Telecom Adapted Sentence Embeddings for Document Retrieval](https://arxiv.org/pdf/2406.12336)”, Workshop on Next-Gen Networks through LLMs, Action Models, and Multi-Agent Systems, International Conference on Communications (ICC 2025).
 
 
 
